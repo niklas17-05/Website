@@ -1,0 +1,12 @@
+body {background-color: gray;}
+table { width: 100%;
+    border-width: 2px;
+    border-style: solid;
+    border-color: rgba(255, 255, 255, 0);
+    border-spacing: 20px;
+}
+
+h1 {
+    text-align: center;
+    font-style: oblique;
+}
